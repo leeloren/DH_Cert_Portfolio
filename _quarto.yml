@@ -1,8 +1,9 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "DH_Cert_Portfolio"
+  title: "DH Cert Portfolio"
   author: "Loren Lee"
   date: "4/12/2025"
   chapters:
