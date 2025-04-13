@@ -1,0 +1,7 @@
+---
+title: "Scholars' Lab DH Fellowship"
+format: html
+---
+
+
+stuff about my dissertation and presentations at the SLab etc

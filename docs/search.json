@@ -24,29 +24,59 @@
     "href": "intro.html",
     "title": "Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "introduction blah blah blah",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "Summary",
+    "objectID": "practicum.html",
+    "href": "practicum.html",
+    "title": "Practicum",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "text": "Practicum stuff blah blah blah\nspreadsheet\nevent highlights blah blah blah",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Practicum</span>"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "DH8991.html",
+    "href": "DH8991.html",
+    "title": "Intro to DH",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "blah blah blah",
     "crumbs": [
-      "References"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Intro to DH</span>"
+    ]
+  },
+  {
+    "objectID": "electiveA.html",
+    "href": "electiveA.html",
+    "title": "Elective A: SARC 5400",
+    "section": "",
+    "text": "blah blah blah",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Elective A: SARC 5400</span>"
+    ]
+  },
+  {
+    "objectID": "electiveB.html",
+    "href": "electiveB.html",
+    "title": "Elective B: FREN 8510",
+    "section": "",
+    "text": "blah blah blah",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Elective B: FREN 8510</span>"
+    ]
+  },
+  {
+    "objectID": "final.html",
+    "href": "final.html",
+    "title": "Scholars’ Lab DH Fellowship",
+    "section": "",
+    "text": "stuff about my dissertation and presentations at the SLab etc",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Scholars' Lab DH Fellowship</span>"
     ]
   }
 ]

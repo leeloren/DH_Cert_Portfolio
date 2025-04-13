@@ -10,8 +10,11 @@ book:
     - index.qmd
     - bio.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - practicum.qmd
+    - DH8991.qmd
+    - electiveA.qmd
+    - electiveB.qmd
+    - final.qmd
 
 bibliography: references.bib
 
