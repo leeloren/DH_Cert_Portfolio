@@ -64,7 +64,7 @@
     "href": "electiveA.html",
     "title": "Elective A",
     "section": "",
-    "text": "SARC 5400: Data Visualization\nI enrolled in SARC 5400 with Eric Fields in Spring 2023. Below, you will find the course syllabus (updated for the most recent iteration of the course) as well as samples of my work from the course.",
+    "text": "SARC 5400: Data Visualization\nI enrolled in SARC 5400 with Eric Field in Spring 2023. Below, you will find the course syllabus (updated for the most recent iteration of the course) as well as samples of my work from the course.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Elective A</span>"
     ]
@@ -102,11 +102,21 @@
   {
     "objectID": "final.html",
     "href": "final.html",
-    "title": "Scholars’ Lab DH Fellowship",
+    "title": "Final Project",
     "section": "",
-    "text": "stuff about my dissertation and presentations at the SLab etc",
+    "text": "Scholars’ Lab Digital Humanities Fellowship\nIn support of my dissertation research, the Scholars’ Lab selected me as their 2024-2025 Digital Humanities Fellow.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Scholars' Lab DH Fellowship</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Final Project</span>"
+    ]
+  },
+  {
+    "objectID": "final.html#scholars-lab-digital-humanities-fellowship",
+    "href": "final.html#scholars-lab-digital-humanities-fellowship",
+    "title": "Final Project",
+    "section": "",
+    "text": "Blog Posts\n“Old Books, New Tricks: Introducing My Digital Edition with the SLab”\n“Manuscript Studies: But like… what are you doing?”\n\n\nPresentations\nSecond Tuesday Forum: DH Fellow Loren Lee 10 December 2024 Amanda Wyatt Visconti posted live on Bluesky with highlights of this presentation available HERE\nDH Fellows Presentation: Loren Lee 15 May 2025 Register today!\n\n\nMy Dissertation\nLike this digital portfolio, I am building my dissertation, The Life of Saint Mary the Egyptian: A Digital Critical Edition of the Old French Version T with English Translations, as a Quarto Book.\nI will defend in the Summer of 2025, and a preview of my dissertation may be found here: https://leeloren.github.io/dissertation/.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Final Project</span>"
     ]
   }
 ]

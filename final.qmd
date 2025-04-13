@@ -1,7 +1,36 @@
 ---
-title: "Scholars' Lab DH Fellowship"
+title: "Final Project"
 format: html
 ---
 
+![](images/Library_SLab_Color.png){width=100% fig-align="center"}
 
-stuff about my dissertation and presentations at the SLab etc
+## Scholars' Lab Digital Humanities Fellowship
+
+<img src="images/dissertationbrat.jpeg" alt="Dissertation visualization" style="float: right; width: 40%; margin: 0 0 15px 20px;">
+
+In support of my dissertation research, the Scholars' Lab selected me as their [2024-2025 Digital Humanities Fellow](https://scholarslab.lib.virginia.edu/digital-humanities-fellows/).
+
+### Blog Posts
+["Old Books, New Tricks: Introducing My Digital Edition with the SLab"](https://scholarslab.lib.virginia.edu/blog/introducing-loren/)
+
+["Manuscript Studies: But like... what are you doing?"](https://scholarslab.lib.virginia.edu/blog/loren-what-are-you-doing/)
+
+### Presentations
+**Second Tuesday Forum:** [DH Fellow Loren Lee](https://scholarslab.lib.virginia.edu/events/second-tuesday-forum-2024-12/) 10 December 2024
+[Amanda Wyatt Visconti](https://scholarslab.lib.virginia.edu/people/amanda-visconti//) posted live on Bluesky with highlights of this presentation available [HERE](https://bsky.app/profile/literaturegeek.bsky.social/post/3lcxwpjgqts2o)
+
+**DH Fellows Presentation:** [Loren Lee](https://cal.lib.virginia.edu/event/14009691) 15 May 2025
+*Register today!*
+
+### My Dissertation
+Like this digital portfolio, I am building my dissertation, **The Life of Saint Mary the Egyptian: A Digital Critical Edition of the Old French Version T with English Translations**, as a Quarto Book. 
+
+I will defend in the Summer of 2025, and a preview of my dissertation may be found here: [https://leeloren.github.io/dissertation/](https://leeloren.github.io/dissertation/). 
+
+![](images/shesasheep_copy.jpeg){width=100% fig-align="center"}
+
+
+
+
+

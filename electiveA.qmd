@@ -3,7 +3,7 @@ title: "Elective A"
 format: html
 ---
 ## SARC 5400: Data Visualization
-I enrolled in SARC 5400 with Eric Fields in Spring 2023. Below, you will find the course syllabus (updated for the most recent iteration of the course) as well as samples of my work from the course.
+I enrolled in SARC 5400 with [Eric Field](https://www.arch.virginia.edu/people/eric-field) in Spring 2023. Below, you will find the course syllabus (updated for the most recent iteration of the course) as well as samples of my work from the course.
 
 ### Syllabus
 <div class="pdf-container">

@@ -5,7 +5,7 @@ project:
 book:
   title: "My Digital Humanities Portfolio"
   author: "Loren Lee"
-  date: "4/12/2025"
+  date: "4/13/2025"
   chapters:
     - index.qmd
     - bio.qmd

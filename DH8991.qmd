@@ -3,7 +3,7 @@ title: "Intro to DH"
 format: html
 ---
 ## DH 8991
-I enrolled in DH 8991 with Alison Booth in Spring 2022. Below, you'll find the course syllabus (adapted for Spring 2023) as well as samples of my work from the course.
+I enrolled in DH 8991 with [Alison Booth](https://english.as.virginia.edu/people/alison-booth) in Spring 2022. Below, you'll find the course syllabus (adapted for Spring 2023) as well as samples of my work from the course.
 
 ### Syllabus
 <div class="pdf-container">
