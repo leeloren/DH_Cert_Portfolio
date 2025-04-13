@@ -1,9 +1,9 @@
-# Preface {.unnumbered}
+---
+title: "Home" 
+---
 
-This is a Quarto book.
+![DH Program Logo](images/DH_Portal_blue_old_style_logo_1500w.jpg)
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+::: {.lead .text-center .fst-italic}
+A portfolio submitted in fulfillment of the requirements of the UVA Graduate Certificate Program in Digital Humanities
+:::

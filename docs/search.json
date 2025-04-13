@@ -2,31 +2,31 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DH Cert Portfolio",
+    "title": "My Digital Humanities Portfolio",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "DH Program Logo\n\n\n\nA portfolio submitted in fulfillment of the requirements of the UVA Graduate Certificate Program in Digital Humanities",
     "crumbs": [
-      "Preface"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "2  Introduction",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "3  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
