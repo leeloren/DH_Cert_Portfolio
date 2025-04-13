@@ -2,5 +2,25 @@
 title: "Intro to DH"
 format: html
 ---
+## DH 8991
+I enrolled in DH 8991 with Alison Booth in Spring 2022. Below, you'll find the course syllabus (adapted for Spring 2023) as well as samples of my work from the course.
 
-blah blah blah
+### Syllabus
+<div class="pdf-container">
+  <iframe src="samples/DH_8991_Syllabus_SP23.pdf" width="100%" height="500px"></iframe>
+</div>
+
+### Course Description
+"This course is a graduate-level introduction to the history, theory, and methods of the digital humanities.  We will cover a range of historical, disciplinary, technical, and contemporary issues in the field, primarily in the context of literature, textual studies, and history, but also spatial matters, database and network analysis, machine learning and its critiques. Our plan is to introduce diverse cultural and epistemological issues and methods. Examples include how maps and other spatial and temporal perspectives are enabled by the digital; the conditions of print and archival materials in the age of digital reproduction; emergent/cy concerns about textual analysis, AI, privacy, security, surveillance.  This course is also designed to introduce students to areas of DH activity at this university.  Students should come away from the course with a solid understanding of the origin of digital humanities, the kinds of work done under that label, the opportunities to participate in DH research at UVA, the research insights offered by digital methods, and the applicability of those methods to the student’s own research interests. The course is required for all students enrolled in the Graduate Certificate in Digital Humanities. Thanks to John Unsworth (whose syllabus lays groundwork for this one), and to Brandon Walsh and Brad Pasanek, with whom I taught previous versions of DH courses."
+
+### Work Samples
+
+**Essay 1:** [Intellectual Autobiography (1st draft)](samples/DH_8991_Lee_Essay1_Intellectual_Autobiography.pdf)
+
+**Research Intervention:** [useR! 2022 Conference Abstract](samples/DH_8991_Lee_Research_Intervention.pdf)
+
+**Essay 2:** [Embracing the Variorum (blog)](samples/DH_8991_Lee_Essay2_Blog.pdf) 
+
+**Curricular Intervention:** [Digital Editing & Medieval Manuscripts](samples/DH_8991_Lee_Curricular_Intervention.pdf)
+
+**Essay 3:** [Intellectual Autobiography (final)](samples/DH_8991_Lee_Essay3.pdf)

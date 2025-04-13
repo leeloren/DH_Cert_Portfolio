@@ -10,8 +10,8 @@ book:
     - index.qmd
     - bio.qmd
     - intro.qmd
-    - practicum.qmd
     - DH8991.qmd
+    - practicum.qmd
     - electiveA.qmd
     - electiveB.qmd
     - final.qmd

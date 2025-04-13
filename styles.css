@@ -40,3 +40,12 @@
 .bi {
   margin-right: 5px;
 }
+
+.pdf-container {
+  position: relative;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
