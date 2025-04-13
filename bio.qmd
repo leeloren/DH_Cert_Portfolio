@@ -1,0 +1,24 @@
+---
+title: "About Me"
+format: html
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/Lee_headshot.jpg){fig-align="left"}
+:::
+
+::: {.g-col-8}
+## Loren Easterday Lee
+
+I am the current Chair of the Graduate Student Committee of the Medieval Academy of America, responsible for all MAA GSC-sponsored programming. I likewise serve the UVA Medieval Studies Program, organizing events for all members of the UVA community of medievalists. For the 2024-2025 academic year, I am also the Digital Humanities Fellow of the Scholars' Lab.
+
+In addition to my studies at UVA, I have completed extensive coursework with Rare Book School, earning a certification in the History of Manuscripts. I was a pensionnaire étranger at the ENS in Paris for the 2023-2024 academic year at which time I was able to conduct manuscript research for my dissertation with the support of several major fellowships. 
+
+My research interests include representations of identity, women, and the body in pre-modern literature, particularly in hagiography. My dissertation focuses on medieval manuscript studies, digital humanities methods, editing, and translation studies. In addition to Modern French, I also read Old French, German, and Latin.
+
+Before joining UVA, I earned a Bachelor of Arts degree in English Literature and French and Francophone Studies and a Master of Science degree in Theory and Practice in Teacher Education from the University of Tennessee, Knoxville. I then taught English and French at the secondary level for several years first outside of Montpellier, France and then in the Richmond, Virginia area.
+:::
+
+:::

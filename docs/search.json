@@ -10,23 +10,33 @@
     ]
   },
   {
+    "objectID": "bio.html#loren-easterday-lee",
+    "href": "bio.html#loren-easterday-lee",
+    "title": "About Me",
+    "section": "Loren Easterday Lee",
+    "text": "Loren Easterday Lee\nI am the current Chair of the Graduate Student Committee of the Medieval Academy of America, responsible for all MAA GSC-sponsored programming. I likewise serve the UVA Medieval Studies Program, organizing events for all members of the UVA community of medievalists. For the 2024-2025 academic year, I am also the Digital Humanities Fellow of the Scholars’ Lab.\nIn addition to my studies at UVA, I have completed extensive coursework with Rare Book School, earning a certification in the History of Manuscripts. I was a pensionnaire étranger at the ENS in Paris for the 2023-2024 academic year at which time I was able to conduct manuscript research for my dissertation with the support of several major fellowships.\nMy research interests include representations of identity, women, and the body in pre-modern literature, particularly in hagiography. My dissertation focuses on medieval manuscript studies, digital humanities methods, editing, and translation studies. In addition to Modern French, I also read Old French, German, and Latin.\nBefore joining UVA, I earned a Bachelor of Arts degree in English Literature and French and Francophone Studies and a Master of Science degree in Theory and Practice in Teacher Education from the University of Tennessee, Knoxville. I then taught English and French at the secondary level for several years first outside of Montpellier, France and then in the Richmond, Virginia area.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About Me</span>"
+    ]
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "2  Introduction",
+    "title": "Introduction",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "3  Summary",
+    "title": "Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
