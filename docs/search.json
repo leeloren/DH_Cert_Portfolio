@@ -62,11 +62,21 @@
   {
     "objectID": "electiveA.html",
     "href": "electiveA.html",
-    "title": "Elective A: SARC 5400",
+    "title": "Elective A",
     "section": "",
-    "text": "blah blah blah",
+    "text": "SARC 5400: Data Visualization\nI enrolled in SARC 5400 with Eric Fields in Spring 2023. Below, you will find the course syllabus (updated for the most recent iteration of the course) as well as samples of my work from the course.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Elective A: SARC 5400</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Elective A</span>"
+    ]
+  },
+  {
+    "objectID": "electiveA.html#sarc-5400-data-visualization",
+    "href": "electiveA.html#sarc-5400-data-visualization",
+    "title": "Elective A",
+    "section": "",
+    "text": "Syllabus\n\n\n\n\n\nCourse Description\n“This is a course about information and data visualization. We live in a world rich with information. This course teaches visual and spatial thinking coupled with data analysis tools and custom web-enabled programming to construct and envision information. To find and even invent approaches toward seeing into complex problems, we will study, and make, useful, compelling and beautiful tools to see.”\n\n\nWork Samples\nAssignment 1: the Good, the Bad, and the Ugly\nAssignment 2: Me, graphically\n\n\n\n\n\nAssignment 3: Visual Data Analysis\nFinal Project, part 1: Ugly Sketch & Prototype\nFinal Project, part 2: Narrative & Reflection\nDigital Project:“What can we do to better visualize manuscript size?”",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Elective A</span>"
     ]
   },
   {

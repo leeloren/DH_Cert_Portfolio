@@ -18,3 +18,6 @@ I enrolled in FREN 8510 with Deborah McGrady in Fall 2021. Below, you will find 
 **Final Paper:** ["Translation Trouble in *Le Roman de Silence*: A Test Case in Digital Editing for Polysemy"](samples/FREN_8510_McGrady_Silence_Final_Paper.pdf)
 
 **Digital Project:** [Digital Edition of *Le Roman de Silence* (verses 2439-2688)](https://leeloren.github.io/silence/)
+
+![](samples/Screenshot_SilenceEdition.png){width=100% fig-align="center"}
+
