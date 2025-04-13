@@ -1,0 +1,42 @@
+/* Profile links styling */
+.profile-links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.profile-links a {
+  display: block;
+  text-decoration: none;
+  color: #2c3e50;
+  transition: color 0.2s;
+  font-size: 0.95rem;
+}
+
+.profile-links a:hover {
+  color: #3498db;
+}
+
+/* CV button styling */
+.btn-primary {
+  background-color: #3498db;
+  border-color: #3498db;
+  color: white !important;
+  padding: 8px 12px;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: #2980b9;
+  border-color: #2980b9;
+}
+
+/* Add space after icons */
+.bi {
+  margin-right: 5px;
+}
