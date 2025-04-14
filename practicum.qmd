@@ -1,8 +1,66 @@
 # Practicum
 
-Practicum stuff blah blah blah
+Between attending lectures, training in workshops, presenting at conferences, and working as a research assistant, I have documented more than 200 hours of DH practice. 
 
-spreadsheet
+Highlights of these activities are provided below, and a complete list is summarized in the following spreadsheet:
 
-event highlights blah blah blah
+<div class="pdf-container">
+  <iframe src="samples/Practicum_spreadsheet.pdf" width="100%" height="500px"></iframe>
+</div>
 
+### Workshop Trainings
+
+LaTeX (Fall 2019)
+
+Zotero (Fall 2019)
+
+RStudio (Spring 2020)
+
+ArcGIS (Spring 2020)
+
+Python for Humanists (Summer 2021)
+
+PhD+ R Series (Spring 2022)
+
+DH Seminars at the ENS (Fall 2023)
+
+Center for Digital Editing (Summer 2024)
+
+### DH Colloquia & Lectures
+
+SLab Reading Group *Six Semptembers: Mathematics for the Humanist* (Summer-Fall 2020)
+
+UVA DH Certificate Showcase (Spring 2022), presenter
+
+30 Years of DH at UVA (Fall 2022), attendee
+
+Slab DH Pedagogy Reading Group (Fall 2024)
+
+"Hallucinatory Reading: Generative AI & Typogrpahy in the Wild" lecture + lunch with Lisa Gitelman (Spring 2025)
+
+### RA Work
+
+*Lives of the Saints: The Medieval French Hagiography Project* (Summer 2022-present)
+
+
+### DH Publications
+
+Book review of Bridget Whearty, *Digital Codicology: Medieval Books and Modern Labor* (2022), 2025, *Digital Humanities Quarterly*, vol. 19, no. 1, [http://digitalhumanities.org/dhq/vol/19/1/000775/000775.html](http://digitalhumanities.org/dhq/vol/19/1/000775/000775.html)
+
+“Editing & Translating Version T of *La Vie de sainte Marie l’Égyptienne*: Opportunities & Challenges Afforded by Digital Methods,” Winter 2024, *Magistra: A Journal of Women’s Spirituality in History*, vol. 30, no. 2, pp. 66-80
+
+### Conferences & Webinars
+
+RStudio::global (Fall 2020), attendee
+
+useR! 2022 (Summer 2022), presenter
+
+UVA Datapalooza (2022), attendee
+
+The Medieval Academy of America's Graduate Student Committee's DH Showcase (30 Jan 2024), co-organizer & co-chair
+
+The MAA's Centennial DH Series (2025), co-organizer & co-chair
+
+The 60th International Congress on Medieval Studies at Kalamazoo (May 2025), presenter & roundtable discussant
+
+The International Medieval Congress at Leeds (July 2025), presenter
