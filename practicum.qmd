@@ -1,6 +1,6 @@
 # Practicum
 
-Between attending lectures, training in workshops, presenting at conferences, and working as a research assistant, I have documented more than 200 hours of DH practice. 
+Between attending lectures, training in workshops, presenting at conferences, and working as a research assistant, I have documented **more than 200 hours** of DH practice. 
 
 Highlights of these activities are provided below, and a complete list is summarized in the following spreadsheet:
 
@@ -10,57 +10,78 @@ Highlights of these activities are provided below, and a complete list is summar
 
 ### Workshop Trainings
 
-LaTeX (Fall 2019)
+[Zotero](samples/Practicum_Zotero_cert.png), UVA Library (Fall 2019)
 
-Zotero (Fall 2019)
+[LaTeX](samples/Practicum_LaTeX_cert.png), UVA Library (Fall 2019)
 
-RStudio (Spring 2020)
+[RStudio](samples/Practicum_Intro_RStudio_cert.png), UVA Library (Spring 2020)
 
-ArcGIS (Spring 2020)
+[ArcGIS](samples/Practicum_ArcGIS_series.png), UVA SLab (Spring 2020)
 
-Python for Humanists (Summer 2021)
+[Python for Humanists](samples/Practicum_Python_for_Humanists_Schedule_Summer_2021.pdf), UVA Library (Summer 2021)
 
-PhD+ R Series (Spring 2022)
+[Data Science Essentials in R](samples/Practicum_PhDPlus_Rseries.png), UVA PhD+ (Spring 2022)
 
-DH Seminars at the ENS (Fall 2023)
+["Notions de philologie numérique: Qu'est-ce qu'un texte?" cours d'introduction](https://odhn.ens.psl.eu/evenements/notions-de-philologie-numerique-quest-ce-quun-texte), ENS-PSL Observatoire des humanités numériques (Fall 2023)
 
-Center for Digital Editing (Summer 2024)
+[eLaboratories Trainings](samples/Practicum_eLabs.png), UVA Center for Digital Editing (Summer 2024)
 
 ### DH Colloquia & Lectures
 
-SLab Reading Group *Six Semptembers: Mathematics for the Humanist* (Summer-Fall 2020)
+[SLab Reading Group *Six Semptembers: Mathematics for the Humanist*](samples/Practicum_SixSeptembers.png) (Summer-Fall 2020), participant
 
-UVA DH Certificate Showcase (Spring 2022), presenter
+[UVA DH Certificate Showcase](samples/Practicum_DH2022_Showcase_script.pdf) (Spring 2022), presenter
 
-30 Years of DH at UVA (Fall 2022), attendee
+[30 Years of DH at UVA](https://avalon.lib.virginia.edu/media_objects/6t053g31z/section/00000049f) (Fall 2022), attendee
 
-Slab DH Pedagogy Reading Group (Fall 2024)
+[SLab DH Pedagogy Reading Group](samples/Practicum_SLab_Pedagogy_Group.png) (Fall 2024), participant
 
-"Hallucinatory Reading: Generative AI & Typogrpahy in the Wild" lecture + lunch with Lisa Gitelman (Spring 2025)
+["Hallucinatory Reading: Generative AI & Typogrpahy in the Wild"](samples/Practicum_Lisa_Gitelman.jpg) lecture + lunch with Lisa Gitelman (Spring 2025), attendee
 
 ### RA Work
 
-*Lives of the Saints: The Medieval French Hagiography Project* (Summer 2022-present)
+*Lives of the Saints: The Medieval French Hagiography Project* (Summer 2022-present) [https://frenchsaintslives.org/](https://frenchsaintslives.org/)
 
+![](samples/Practicum_LivesoftheSaints.png){width=100% fig-align="center"}
 
 ### DH Publications
 
 Book review of Bridget Whearty, *Digital Codicology: Medieval Books and Modern Labor* (2022), 2025, *Digital Humanities Quarterly*, vol. 19, no. 1, [http://digitalhumanities.org/dhq/vol/19/1/000775/000775.html](http://digitalhumanities.org/dhq/vol/19/1/000775/000775.html)
 
+![](images/dhqlogo.png){width=100% fig-align="center"}
+
 “Editing & Translating Version T of *La Vie de sainte Marie l’Égyptienne*: Opportunities & Challenges Afforded by Digital Methods,” Winter 2024, *Magistra: A Journal of Women’s Spirituality in History*, vol. 30, no. 2, pp. 66-80
+
+![](images/magistra_banner.jpg){width=100% fig-align="center"}
 
 ### Conferences & Webinars
 
-RStudio::global (Fall 2020), attendee
+useR! Poster + Elevator Pitch session "R in the Wild" (Summer 2022), presenter
 
-useR! 2022 (Summer 2022), presenter
+<div class="video-container">
+  <video controls width="100%">
+    <source src="samples/Practicum_useR!2022_elevator_pitch.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p class="video-caption">useR! 2022 elevator pitch</p>
+</div>
 
-UVA Datapalooza (2022), attendee
+![useR! poster](samples/Practicum_useR!2022_poster.jpg){width=100% fig-align="center"}
 
-The Medieval Academy of America's Graduate Student Committee's DH Showcase (30 Jan 2024), co-organizer & co-chair
+[UVA Datapalooza](https://datascience.virginia.edu/datapalooza-2022) (2022), attendee
 
-The MAA's Centennial DH Series (2025), co-organizer & co-chair
+The Medieval Academy of America's Graduate Student Committee's [DH Showcase](https://youtu.be/ndBdiRPpo8I?si=NZROhfceDjwzM7J3) (30 Jan 2024), co-organizer & co-chair
+
+The MAA's [Centennial DH Series](https://youtu.be/RrsN-z1WYcs?si=2qo43Z9F_SYxU28c) (2025), co-organizer & co-chair
 
 The 60th International Congress on Medieval Studies at Kalamazoo (May 2025), presenter & roundtable discussant
 
+![ICMS Kalamazoo Roundtable](samples/Practicum_ICMS_roundtable.png){width=100% fig-align="center"}
+
+![ICMS Kalamazoo Panel](samples/Practicum_ICMS_panel.png){width=100% fig-align="center"}
+
 The International Medieval Congress at Leeds (July 2025), presenter
+
+![IMC Leeds panel](samples/Practicum_IMC_panel.png){width=100% fig-align="center"}
+
+

@@ -49,3 +49,18 @@
   overflow: hidden;
   margin-bottom: 20px;
 }
+
+/* Video styling */
+.video-container {
+  margin: 25px 0;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+.video-caption {
+  text-align: center;
+  font-style: italic;
+  margin-top: 10px;
+  color: #555;
+}
