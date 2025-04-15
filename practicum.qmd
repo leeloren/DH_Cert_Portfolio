@@ -28,7 +28,7 @@ Highlights of these activities are provided below, and a complete list is summar
 
 ### DH Colloquia & Lectures
 
-[SLab Reading Group *Six Semptembers: Mathematics for the Humanist*](samples/Practicum_SixSeptembers.png) (Summer-Fall 2020), participant
+[SLab Reading Group *Six Septembers: Mathematics for the Humanist*](samples/Practicum_SixSeptembers.png) (Summer-Fall 2020), participant
 
 [UVA DH Certificate Showcase](samples/Practicum_DH2022_Showcase_script.pdf) (Spring 2022), presenter
 
@@ -36,23 +36,23 @@ Highlights of these activities are provided below, and a complete list is summar
 
 [SLab DH Pedagogy Reading Group](samples/Practicum_SLab_Pedagogy_Group.png) (Fall 2024), participant
 
-["Hallucinatory Reading: Generative AI & Typogrpahy in the Wild"](samples/Practicum_Lisa_Gitelman.jpg) lecture + lunch with Lisa Gitelman (Spring 2025), attendee
+["Hallucinatory Reading: Generative AI & Typography in the Wild"](samples/Practicum_Lisa_Gitelman.jpg) lecture + lunch with Lisa Gitelman (Spring 2025), attendee
 
 ### RA Work
 
 *Lives of the Saints: The Medieval French Hagiography Project* (Summer 2022-present) [https://frenchsaintslives.org/](https://frenchsaintslives.org/)
 
-![](samples/Practicum_LivesoftheSaints.png){width=100% fig-align="center"}
+![*Lives of the Saints*, an IATH-sponsored project](samples/Practicum_LivesoftheSaints.png){width=100% fig-align="center"}
 
 ### DH Publications
 
 Book review of Bridget Whearty, *Digital Codicology: Medieval Books and Modern Labor* (2022), 2025, *Digital Humanities Quarterly*, vol. 19, no. 1, [http://digitalhumanities.org/dhq/vol/19/1/000775/000775.html](http://digitalhumanities.org/dhq/vol/19/1/000775/000775.html)
 
-![](images/dhqlogo.png){width=100% fig-align="center"}
+![*dhq*](images/dhqlogo.png){width=100% fig-align="center"}
 
 “Editing & Translating Version T of *La Vie de sainte Marie l’Égyptienne*: Opportunities & Challenges Afforded by Digital Methods,” Winter 2024, *Magistra: A Journal of Women’s Spirituality in History*, vol. 30, no. 2, pp. 66-80
 
-![](images/magistra_banner.jpg){width=100% fig-align="center"}
+![*Magistra*](images/magistra_banner.jpg){width=100% fig-align="center"}
 
 ### Conferences & Webinars
 
